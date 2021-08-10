@@ -4,3 +4,5 @@
 `🔨` https://github.com/discord-datamining/discord-datamining
 
 `🚀` https://gitlab.com/derpystuff/
+
+`🖼️` https://gitlab.com/derpystuff/discasset
