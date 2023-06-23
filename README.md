@@ -1,7 +1,7 @@
-`🚀` https://gitlab.com/derpystuff/
+`📦` **` Activities     `** https://github.com/justsomederpystuff/activity-framework
 
-`🦦` https://github.com/otteruniversity/
+`😀` **` Emoji          `** https://github.com/justsomederpystuff/fluent-emoji/
 
-`😀` https://github.com/justsomederpystuff/fluent-emoji/
+`🖼️` **` Spritesheets   `** https://github.com/justsomederpystuff/spritesheets
 
-`📦` https://github.com/justsomederpystuff/activity-framework
+`🚀` **` More Projects  `** https://gitlab.com/derpystuff/
