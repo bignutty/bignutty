@@ -1,7 +1,7 @@
-`📦` **` Activities     `** https://github.com/justsomederpystuff/activity-framework
+`📦` **` Activities     `** https://github.com/bignutty/activity-framework
 
-`😀` **` Emoji          `** https://github.com/justsomederpystuff/fluent-emoji/
+`😀` **` Emoji          `** https://github.com/bignutty/fluent-emoji/
 
-`🖼️` **` Spritesheets   `** https://github.com/justsomederpystuff/spritesheets
+`🖼️` **` Spritesheets   `** https://github.com/bignutty/spritesheets
 
-`🚀` **` More Projects  `** https://gitlab.com/derpystuff/
+`🚀` **` More Projects  `** https://gitlab.com/bignutty/
