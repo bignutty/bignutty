@@ -1,5 +1,3 @@
-`😀 emoji         ` https://github.com/bignutty/fluent-emoji/
+you can primarily find my work on gitlab - https://gitlab.com/bignutty/
 
-`🚀 more projects ` https://gitlab.com/bignutty/
-
-`🗣 questions?     ` https://discord.gg/EPk28hzGS2
+if you want to reach out, do so via https://discord.gg/EPk28hzGS2
